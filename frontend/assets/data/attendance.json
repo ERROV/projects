@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1",
+    "date": "2025-11-10",
+    "checkInTime": "08:02:10",
+    "checkOutTime": "12:00:00",
+    "nfcCardId": "NFC_1001",
+    "status": "present",
+    "lectureId": "1",
+    "lectureName": "برمجة الويب"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "code": "CS101",
+    "name": "برمجة الويب",
+    "instructor": "د. علي محمد",
+    "room": "A101",
+    "dayOfWeek": 1,
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "credits": 3,
+    "department": "علوم الحاسوب",
+    "semester": 1
+  },
+  {
+    "id": "2",
+    "code": "CS102",
+    "name": "قواعد البيانات",
+    "instructor": "د. فاطمة حسن",
+    "room": "B202",
+    "dayOfWeek": 1,
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "credits": 3,
+    "department": "علوم الحاسوب",
+    "semester": 1
+  },
+  {
+    "id": "3",
+    "code": "MATH201",
+    "name": "الرياضيات المتقدمة",
+    "instructor": "د. أحمد سالم",
+    "room": "C303",
+    "dayOfWeek": 2,
+    "startTime": "08:00",
+    "endTime": "09:30",
+    "credits": 4,
+    "department": "الرياضيات",
+    "semester": 1
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b1",
+    "title": "مبادئ علوم الحاسوب",
+    "author": "د. علي محمد",
+    "isbn": "978-1-23456-789-7",
+    "year": 2020,
+    "copies": 5,
+    "cover": "./book1.png",
+    "description": "كتاب تمهيدي لأساسيات علوم الحاسوب.",
+    "digitalUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "b2",
+    "title": "قواعد البيانات المتقدمة",
+    "author": "د. فاطمة حسن",
+    "isbn": "978-1-23456-789-8",
+    "year": 2021,
+    "copies": 3,
+    "cover": "./book2.png",
+    "description": "تغطية متقدمة لنظم إدارة قواعد البيانات.",
+    "digitalUrl": "https://www.orimi.com/pdf-test.pdf"
+  }
+]
